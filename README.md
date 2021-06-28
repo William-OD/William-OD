@@ -1,6 +1,8 @@
 William O'Donnell
-\4th year Undergraduate at the University of Glasgow
-\Studying Msci Physics and Astronomy
+
+4th year Undergraduate at the University of Glasgow
+
+Studying Msci Physics and Astronomy
 
 <!---
 William-OD/William-OD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
