@@ -1,6 +1,6 @@
 William O'Donnell
 
-4th year Undergraduate at the University of Glasgow
+5th year Undergraduate at the University of Glasgow
 
 Studying Msci Physics and Astronomy
 
