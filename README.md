@@ -1,8 +1,7 @@
 William O'Donnell
 
-5th year Undergraduate at the University of Glasgow
+1st Year Ph.D. researching next generation mupoography detectors for built infrastructure monitoring. Funded by Lynkeos Technology and the Nuclear and Hadron Physics group at the University of Glasgow.
 
-Studying Msci Physics and Astronomy
 
 <!---
 William-OD/William-OD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
