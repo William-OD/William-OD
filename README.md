@@ -1,6 +1,6 @@
 William O'Donnell
 
-1st Year Ph.D. researching next generation mupoography detectors for built infrastructure monitoring. Funded by Lynkeos Technology and the Nuclear and Hadron Physics group at the University of Glasgow.
+1st Year Ph.D. researching next generation mupoography detectors for built infrastructure monitoring with Lynkeos Technology and the Nuclear and Hadron Physics group at the University of Glasgow.
 
 
 <!---
