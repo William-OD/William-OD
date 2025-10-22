@@ -1,6 +1,6 @@
 William O'Donnell
 
-1st Year Ph.D. researching next generation muography detectors for built infrastructure monitoring with Lynkeos Technology and the Nuclear and Hadron Physics group at the University of Glasgow.
+3rd Year Ph.D. student looking at the use of image-based machine learning methods for next generation muography. Affiliated with Lynkeos Technology and the Nuclear and Hadron Physics group at the University of Glasgow.
 
 
 <!---
